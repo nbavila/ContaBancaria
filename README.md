@@ -1,7 +1,5 @@
-# Projeto de Conta Bancária
-Este é um projeto simples de Conta Bancária em Java que demonstra como criar e interagir com contas bancárias. Ele também ilustra o uso das funções try e catch para lidar com exceções.
 
-## Descrição do Projeto
+# Descrição do Projeto
 O projeto consiste em duas classes principais: Account e BusinessExceptions. Aqui está uma breve descrição de cada uma:
 
 *Account*: Esta classe representa uma conta bancária e inclui atributos como número da conta, titular da conta, saldo e limite de saque. Além disso, possui métodos para depositar e sacar dinheiro, bem como uma validação de saque para garantir que o limite de saque e o saldo sejam respeitados.
